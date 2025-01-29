@@ -12,7 +12,7 @@ This project implements a simple `Account` class that adheres to the `AccountSer
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/hanafimarwan/Account.git
    ```
 2. Navigate to the project directory:
    ```sh
