@@ -16,7 +16,7 @@ This project implements a simple `Account` class that adheres to the `AccountSer
    ```
 2. Navigate to the project directory:
    ```sh
-   cd account-service
+   cd Account
    ```
 3. Compile the project:
    ```sh
